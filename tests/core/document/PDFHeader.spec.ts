@@ -7,7 +7,7 @@ describe(`PDFHeader`, () => {
   });
 
   it(`can be converted to a string`, () => {
-    expect(String(PDFHeader.forVersion(1, 7))).toBe('%PDF-1.7\n%');
+    expect(String(PDFHeader.forVersion(1, 4))).toBe('%PDF-1.7\n%');
   });
 
   it(`can provide its size in bytes`, () => {
