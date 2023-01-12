@@ -1,8 +1,8 @@
 {
   "name": "pdf-lib",
-  "version": "1.17.1_fork",
+  "version": "1.17.1",
   "description": "Create and modify PDF files with JavaScript",
-  "author": "Andrew Dillon <andrew.dillon.j@gmail.com>",
+  "author": "Andrew Dillon <andrew.dillon.j@gmail.com>, leshicus",
   "contributors": [
     "jerp (https://github.com/jerp)",
     "Greg Bacchus (https://github.com/gregbacchus)",
